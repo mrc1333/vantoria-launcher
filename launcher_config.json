@@ -17,7 +17,7 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 			"name": "assets"
 		}
 	],
-	"clientFolder": "Vantoria Launcher",
+	"clientFolder": "",
 	"newClientUrl" : "https://github.com/mrc1333/vantoria-launcher/releases/download/v13.40.3455/assets.zip",
 	"clientExecutable": "client.exe"
 }
