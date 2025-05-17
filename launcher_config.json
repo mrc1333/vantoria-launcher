@@ -23,7 +23,7 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 			"name": "bin"
 		}
 	],
-	"clientFolder": "Tibia",
-	"newClientUrl" : "https://github.com/mrc1333/vantoria-launcher/releases/download/v13.40.3452/Vantoria.13.40.v2.zip",
+	"clientFolder": "Vantoria Client",
+	"newClientUrl" : "https://github.com/mrc1333/vantoria-launcher/releases/download/v13.40.3453/assets.zip",
 	"clientExecutable": "client.exe"
 }
