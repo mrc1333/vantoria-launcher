@@ -15,6 +15,12 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 	"replaceFolderName": [
 		{
 			"name": "assets"
+		},
+		{
+			"name": "storeimages"
+		},
+		{
+			"name": "bin"
 		}
 	],
 	"clientFolder": "Vantoria Client",
