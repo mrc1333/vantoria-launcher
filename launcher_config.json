@@ -9,7 +9,7 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 • executable The path to the client's executable file, represented as "bin/client.exe"
 */
 {
-	"clientVersion": "13.40.13560",
+	"clientVersion": "13.40",
 	"launcherVersion": "1.0",
 	"replaceFolders": true,
 	"replaceFolderName": [
@@ -23,7 +23,7 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 			"name": "bin"
 		}
 	],
-	"clientFolder": "Vantoria v3",
-	"newClientUrl" : "https://github.com/mrc1333/vantoria-launcher/releases/download/v13.40.v3/Vantoria.13.40xd.zip",
+	"clientFolder": "Tibia",
+	"newClientUrl" : "https://github.com/mrc1333/vantoria-launcher/releases/download/v13.40.3451/Vantoria.13.40.v2.zip",
 	"clientExecutable": "client.exe"
 }
