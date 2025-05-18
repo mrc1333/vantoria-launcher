@@ -11,6 +11,9 @@
 			"name": "storeimages"
 		},
 		{
+			"name": "conf"
+		},
+		{
 			"name": "bin"
 		}
 	],
